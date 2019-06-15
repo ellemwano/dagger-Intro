@@ -1,3 +1,5 @@
+_[Android: Getting Started with Dagger2](https://www.pluralsight.com/courses/android-dagger-2-getting-started) by Justin Inácio, PluralSight course_
+
 # IntroToDagger
 
 This project demonstrates the basics of Dagger2, covering the following topics: components, modules, scopes, @Inject annotation, subcomponents and dependency layering. 
